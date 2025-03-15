@@ -5,7 +5,7 @@
         </a>
 
         @auth
-            <ul class="ml-12 hidden w-1/2 flex-row space-x-3 text-sm lg:flex">
+            <ul class="ml-12 hidden w-1/2 flex-row space-x-3 text-sm lg:flex text-white">
                 <li class="font-semibold">Home</li>
                 <li>Series</li>
                 <li>Films</li>

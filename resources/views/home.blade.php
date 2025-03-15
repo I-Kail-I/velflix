@@ -26,7 +26,8 @@
 
 <x-gap />
 
-<section>
+
+<section class="pt-4">
     <div class="full flex justify-center p-12">
         <div class="flex w-3/5 flex-col items-center justify-center">
             <div>
